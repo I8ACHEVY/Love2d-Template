@@ -1,12 +1,13 @@
---require("example") imports class
-require("Debug")
+require("debug")
 
 function love.load()
 
 end
 
-function love.update()
+function love.update() --deltaTime
 
 end
 
 function love.draw()
+
+end
