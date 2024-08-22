@@ -1,13 +1,15 @@
 require("debug")
 
-function love.load()
+print("hello world")
 
-end
+-- function love.load()
 
-function love.update() --deltaTime
+-- -- end
 
-end
+-- -- function love.update() --deltaTime
 
-function love.draw()
+-- -- end
 
-end
+-- -- function love.draw()
+
+-- -- end
